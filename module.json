@@ -1,8 +1,8 @@
 {
   "id": "dahns-module",
   "title": "Dahn's Module",
-  "version": "1.0.0",
-    "manifest": "https://github.com/ibilis-dsbin/foundryvtt11-dahns-module/releases/latest/download/module.json",
+  "version": "1.26.03.17",
+  "manifest": "https://github.com/ibilis-dsbin/foundryvtt11-dahns-module/releases/latest/download/module.json",
   "download": "https://github.com/ibilis-dsbin/foundryvtt11-dahns-module/releases/download/1.0.0/module.zip",
   "compatibility": {
     "minimum": "11",
@@ -110,6 +110,17 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "chest",
+      "label": "Chest",
+      "path": "packs/chest",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "D35E"
     }
   ]
 }
