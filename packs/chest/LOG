@@ -1,7 +1,7 @@
-2026/03/26-21:09:35.215040 79329effe6c0 Recovering log #78
-2026/03/26-21:09:35.218430 79329effe6c0 Delete type=0 #78
-2026/03/26-21:09:35.218452 79329effe6c0 Delete type=3 #75
-2026/03/26-21:12:33.393518 79328cbfb6c0 Level-0 table #84: started
-2026/03/26-21:12:33.393535 79328cbfb6c0 Level-0 table #84: 0 bytes OK
-2026/03/26-21:12:33.395513 79328cbfb6c0 Delete type=0 #82
-2026/03/26-21:12:33.395594 79328cbfb6c0 Manual compaction at level-0 from '!actors!XDoqSnyrF2Nyt9b3' @ 72057594037927935 : 1 .. '!actors!XDoqSnyrF2Nyt9b3' @ 0 : 0; will stop at (end)
+2026/03/28-19:57:27.651754 77577a7fe6c0 Recovering log #94
+2026/03/28-19:57:27.664732 77577a7fe6c0 Delete type=0 #94
+2026/03/28-19:57:27.664780 77577a7fe6c0 Delete type=3 #93
+2026/03/28-20:01:14.551509 7757ff1fb6c0 Level-0 table #98: started
+2026/03/28-20:01:14.551660 7757ff1fb6c0 Level-0 table #98: 0 bytes OK
+2026/03/28-20:01:14.558784 7757ff1fb6c0 Delete type=0 #96
+2026/03/28-20:01:14.567957 7757ff1fb6c0 Manual compaction at level-0 from '!actors!XDoqSnyrF2Nyt9b3' @ 72057594037927935 : 1 .. '!actors!XDoqSnyrF2Nyt9b3' @ 0 : 0; will stop at (end)
