@@ -1,7 +1,7 @@
 {
   "id": "dahns-module",
   "title": "Dahn : General  Module",
-  "version": "1.26.03.29",
+  "version": "1.26.04.06",
   "manifest": "https://github.com/ibilis-dsbin/foundryvtt11-dahns-module/releases/latest/download/module.json",
   "download": "https://github.com/ibilis-dsbin/foundryvtt11-dahns-module/releases/download/1.26.03.29/module.zip",
   "compatibility": {
@@ -119,6 +119,17 @@
       "label": "Items",
       "path": "packs/items",
       "type": "Item",
+      "system": "D35E",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "bestiary",
+      "label": "Bestiary",
+      "path": "packs/bestiary",
+      "type": "Actor",
       "system": "D35E",
       "ownership": {
         "PLAYER": "OBSERVER",
